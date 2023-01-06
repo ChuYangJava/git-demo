@@ -13,3 +13,4 @@ hello chuyang! hello git!
 初阳学Git
 初阳学Linux
 此处更改66666666666
+测试SSH免密登录
